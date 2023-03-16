@@ -36,7 +36,7 @@
 
 ## GPT-4 新闻和公告
 
-- [GPT-4 将于下周推出——微软德国表示，它将是多模式的](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will -be-multimodal-says-Microsoft-Germany-7540972.html) (*heise.de*)
+- [GPT-4 将于下周推出——微软德国表示，它将是多模式的](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html) (*heise.de*)
 - [GPT-4 是 OpenAI 最先进的系统，可以产生更安全、更有用的响应。](https://openai.com/product/gpt-4)
 - [GPT-4 - OpenAI 研究](https://openai.com/research/gpt-4)
 
